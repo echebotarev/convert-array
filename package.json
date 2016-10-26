@@ -1,0 +1,21 @@
+{
+  "name": "test-trend",
+  "version": "0.0.1",
+  "main": "server.js",
+  "description": "Тестовое задание для компании Тренд",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Egor Chebotarev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/echebotarev/convert-array"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
